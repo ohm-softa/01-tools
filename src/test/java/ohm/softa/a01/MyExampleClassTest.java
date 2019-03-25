@@ -12,4 +12,11 @@ class MyExampleClassTest {
         IntStream.range(-5, 5)
                 .forEach(i -> assertEquals(i * (i - 1), new MyExampleClass().multiply(i, i - 1)));
     }
+
+    @Test
+    void testMultiply2() {
+        MyExampleClass myExampleClass = new MyExampleClass();
+        IntStream.range(-5, 5)
+                .forEach(i -> assertEquals(i * (i-1), myExampleClass.multiply(i, i-1)));
+    }
 }
