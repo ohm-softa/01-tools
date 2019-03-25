@@ -1,4 +1,5 @@
-[![Build Status](https://travis-ci.org/hubwoop/01-tools.svg?branch=master)](https://travis-ci.org/hubwoop/01-tools)
+[![Build Status](https://travis-ci.org/hubwoop/01-tools.svg?branch=master)](https://travis-ci.org/hubwoop/01-tools)  
+
 _This is an assignment to the [Software Architecture](https://ohm-softa.github.io) class at the [Technical University of Applied Sciences Nuremberg](http://www.th-nuernberg.de)._
 
 # Assignment 1: A (Java) software engineers toolbox
