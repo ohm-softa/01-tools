@@ -30,7 +30,7 @@ _This is an assignment to the [Software Architecture](https://ohm-softa.github.i
 
 ## Get familiar with Gradle
 
-0. Install the [Gradle build tool](https://gradle.org/); make sure you have a recent [Java JDK](https://jdk.java.net/16/) installed and configured for command line use.
+0. Install the [Gradle build tool](https://gradle.org/); make sure you have a recent [Java JDK](https://jdk.java.net/15/)(NOTE: JDK16 is **NOT** supported by *Gradle* yet!) installed and configured for command line use.
 1. Familiarize yourself by completing the [Java application tutorial](https://guides.gradle.org/building-java-applications/). Note: This requires a command line shell, such as bash. If you're running Windows, you can use git's bash, try Cygwin, or use Ubuntu on VirtualBox.
 
 
